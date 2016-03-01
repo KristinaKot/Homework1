@@ -1,0 +1,19 @@
+.name{
+	text-align:center;
+}
+.whole{
+	margin-top: 40px;
+	margin-bottom: 70px;
+}
+div{
+	margin-right: 80px;
+	margin-left: 80px;
+}
+hr{
+	margin-right: 60px;
+	margin-left: 60px;
+}
+li{
+	margin-right: -20px;
+	margin-left: -20px;
+}
