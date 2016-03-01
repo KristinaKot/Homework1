@@ -1,19 +1,39 @@
-.name{
+h2{
 	text-align:center;
 }
-.whole{
-	margin-top: 40px;
-	margin-bottom: 70px;
+body{
+	background-color: #efefef;
 }
-div{
-	margin-right: 80px;
-	margin-left: 80px;
+
+.wrapper {
+	width: 500px;
+	margin: 0 auto;
+	padding: 20px 60px 37px;
+	border: 1px solid #e7d7d7;
+	background-color: #ffffff;
+}
+
+.gm-text-center {
+	text-align: center;
+}
+
+.block {
+	padding: 10px;
+}
+
+.gm-border-bottom {
+	border-bottom: 2px solid gray;
+}
+
+a
+ {
+	margin-left: 0px;
 }
 hr{
-	margin-right: 60px;
-	margin-left: 60px;
+	width: 100%;
 }
-li{
-	margin-right: -20px;
+ul{
 	margin-left: -20px;
-}
+
+
+
